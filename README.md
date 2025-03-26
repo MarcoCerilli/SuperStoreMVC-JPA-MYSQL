@@ -6,11 +6,10 @@ Interfaccia web per la visualizzazione dei prodotti.
 API REST per la gestione dei prodotti tramite richieste HTTP.
 Sistema di persistenza con Spring Data JPA e MySQL.
 Struttura organizzata con controller, repository ed entità per una gestione chiara e scalabile.
-L'app include pagine HTML con Thymeleaf, fogli di stile CSS e un'icona personalizzata per migliorare l'esperienza utente.  La modalità di svolgimento di quest applicazione Monolitica ovvero :
+L'app include pagine HTML con Thymeleaf, fogli di stile CSS e un'icona personalizzata per migliorare l'esperienza utente.  La modalità di svolgimento di quest applicazione è Monolitica ovvero :
+
 ✅ Tutta la logica (controller, servizio, repository, UI) è in un unico progetto Spring Boot.
 ✅ Backend e frontend sono integrati nello stesso codice.
 ✅ Utilizza un database relazionale e un'architettura MVC classica.
 
-Speravo di finirlo con il mio gruppo ma vi lascio un link della cartella per importarlo e per capire per chi voleva saperlo come integrare la parte del front end abbastanza snella...dai... 
 
-https://github.com/MarcoCerilli/SuperStoreMVC-JPA-MYSQL.git
