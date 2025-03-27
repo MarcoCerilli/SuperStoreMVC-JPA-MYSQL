@@ -35,30 +35,13 @@ Spring Security (facoltativo) - Per la gestione della sicurezza (se implementato
 
 📦 Setup
 Clonare il repository:
-
-bash
-Copia
-Modifica
 git clone https://github.com/tuo-utente/superstore.git
-Configurare il database:
 
+
+Configurare il database:
 Creare un database MySQL (ad esempio superstore).
 
 Configurare il file application.properties con le credenziali del tuo database.
-
-properties
-Copia
-Modifica
-spring.datasource.url=jdbc:mysql://localhost:3306/superstore
-spring.datasource.username=tuo_utente
-spring.datasource.password=tua_password
-Avviare l'applicazione:
-
-bash
-Copia
-Modifica
-./mvnw spring-boot:run
-Accedere all'applicazione:
 
 Vai su http://localhost:8080 per visualizzare la home page dell'applicazione.
 
