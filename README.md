@@ -1,3 +1,7 @@
+
+![image](https://github.com/user-attachments/assets/a02eadf4-8afa-4770-83be-a34ba649bcd9)
+
+
 # SuperStore - Web Application
 
 SuperStore è un'applicazione web sviluppata con **Spring Boot**, progettata per la gestione dei prodotti di un negozio online. L'applicazione sfrutta un'architettura **MVC** e un database relazionale **MySQL** per la memorizzazione dei dati.
